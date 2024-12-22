@@ -36,7 +36,7 @@ const Hero = () => {
             start: "top 90%",
             end: "top 40%",
             scrub: true,
-            markers: true,
+            markers: false,
             toggleActions: "play play reverse reverse",
           },
         }
